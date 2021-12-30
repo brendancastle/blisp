@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
       ",
       Number, Operator, Expr, Blisp);
 
-    puts("Blisp Version 0.0.0.0.1");
+    puts("Blisp Version 0.0.0.0.2");
     puts("Author: Brendan Castle\n");
     puts("Based on 'Build Your Own Lisp' by Daniel Holden\n");
     puts("Press Ctrl+c to Exit\n");
